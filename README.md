@@ -33,10 +33,12 @@ If you find this code useful or use the extracted similarity matrices, please co
 }
 ```
 ```
-@InProceedings{Wang02_2023_EMNLP,
-    author    = {Yimu Wang, Peng Shi},
-    title     = {Video-Text Retrieval by Supervised Sparse Multi-Grained Learning},
-    booktitle = {Findings of EMNLP},
-    year      = {2023},
+@misc{wang2023videotext,
+      title={Video-Text Retrieval by Supervised Multi-Space Multi-Grained Alignment}, 
+      author={Yimu Wang and Peng Shi},
+      year={2023},
+      eprint={2302.09473},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
 ```
